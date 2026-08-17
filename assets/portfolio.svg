@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400">
+  <defs>
+    <linearGradient id="bg" x1="1" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#12151c"/>
+      <stop offset="100%" stop-color="#08090d"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="638" height="398" rx="17" fill="none" stroke="#8aa0c8" stroke-opacity="0.28"/>
+  <text x="36" y="48" fill="#8aa0c8" font-size="12" letter-spacing="6" font-family="ui-sans-serif, system-ui, sans-serif">STUDIO</text>
+  <rect x="250" y="120" width="140" height="90" rx="10" fill="none" stroke="#9bb0d4" stroke-width="3"/>
+  <circle cx="296" cy="165" r="10" fill="#4da6ff"/>
+  <rect x="318" y="156" width="48" height="6" rx="3" fill="#9bb0d4" opacity="0.7"/>
+  <rect x="318" y="170" width="36" height="6" rx="3" fill="#9bb0d4" opacity="0.35"/>
+  <text x="36" y="338" fill="#f6f1e8" font-size="42" font-family="Georgia, serif">Portfolio</text>
+  <text x="36" y="368" fill="#b9b3c9" font-size="15" font-family="ui-sans-serif, system-ui, sans-serif">react · typescript · dark mode</text>
+</svg>

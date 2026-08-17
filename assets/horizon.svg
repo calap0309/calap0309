@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="42%" r="70%">
+      <stop offset="0%" stop-color="#1b1028"/>
+      <stop offset="100%" stop-color="#07060a"/>
+    </radialGradient>
+    <linearGradient id="ring" x1="0" y1="0" x2="1" y2="0.4">
+      <stop offset="0%" stop-color="#5b2a86"/>
+      <stop offset="40%" stop-color="#ffd7a1"/>
+      <stop offset="100%" stop-color="#ff8a33"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="638" height="398" rx="17" fill="none" stroke="#7b5cff" stroke-opacity="0.35"/>
+  <text x="36" y="48" fill="#c9b6ff" font-size="12" letter-spacing="6" font-family="ui-sans-serif, system-ui, sans-serif">SPACETIME</text>
+  <ellipse cx="320" cy="188" rx="118" ry="28" fill="none" stroke="url(#ring)" stroke-width="8"/>
+  <circle cx="320" cy="188" r="22" fill="#05040a"/>
+  <text x="36" y="338" fill="#f6f1e8" font-size="42" font-family="Georgia, serif">Event Horizon</text>
+  <text x="36" y="368" fill="#b9b3c9" font-size="15" font-family="ui-sans-serif, system-ui, sans-serif">drag the void in your browser</text>
+</svg>

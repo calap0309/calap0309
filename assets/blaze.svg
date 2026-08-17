@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 400" width="640" height="400">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1a0c06"/>
+      <stop offset="100%" stop-color="#0a090c"/>
+    </linearGradient>
+  </defs>
+  <rect width="640" height="400" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="638" height="398" rx="17" fill="none" stroke="#ff6a00" stroke-opacity="0.28"/>
+  <text x="36" y="48" fill="#ff6a00" font-size="12" letter-spacing="6" font-family="ui-sans-serif, system-ui, sans-serif">LIVE CATALOG</text>
+  <polygon points="268,140 268,268 392,204" fill="#ff6a00"/>
+  <text x="36" y="338" fill="#f6f1e8" font-size="42" font-family="Georgia, serif">Blaze</text>
+  <text x="36" y="368" fill="#b9b3c9" font-size="15" font-family="ui-sans-serif, system-ui, sans-serif">anime, trailers, seasons</text>
+</svg>
